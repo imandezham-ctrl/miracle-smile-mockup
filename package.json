@@ -1,0 +1,6 @@
+{
+  "name": "miracle-smile-dental-site",
+  "private": true,
+  "description": "A Miracle Smile website (static pages + one Vercel function for form email)",
+  "engines": { "node": "22.x" }
+}
